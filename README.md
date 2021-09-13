@@ -21,6 +21,8 @@ There is!
 
 ## Configuration
 
+File: `.justajinrc`
+
 ```Yaml
 ---
 
